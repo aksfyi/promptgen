@@ -2,8 +2,15 @@
 
 Huggingface model : [aksty/promptgen](https://huggingface.co/aksty/promptgen)
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=08318068.1e87.409b.93cf.c37ff4df6538gh)
+
 This is a text generation model trained on data specifically designed to generate prompts for text-to-image models. It is based on the [EleutherAI/gpt-neo-125M](https://huggingface.co/EleutherAI/gpt-neo-125M) pre-trained model, which has been fine-tuned using the [Gustavosta/Stable-Diffusion-Prompts](https://huggingface.co/datasets/Gustavosta/Stable-Diffusion-Prompts) dataset.
+
+### Notebook with promptgen + Stable Diffusion v2 
+[![image](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/github/aksty/promptgen/blob/main/notebook/StableDiffusion_with_PromptGen.ipynb)
+
 ![image](https://huggingface.co/aksty/promptgen/resolve/main/image.jpg)
+
 
 
 ## Usage
